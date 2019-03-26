@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Address_book</string>
+    <string name="title_activity_list">List</string>
+    <string name="large_text">
+        ablong
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
